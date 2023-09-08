@@ -1,7 +1,7 @@
 list:
 - command:
-    action: ahk
-    exe_path: ahk/reboot.exe
+    action: jarvis
+    exe_path: jarvis/reboot.exe
   voice:
     sounds:
     - ok1
